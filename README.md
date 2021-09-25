@@ -1,6 +1,6 @@
 # Hey, let's hire some awesome programmers
 
-This project was bootstrapped with [Live site](https://github.com/facebook/create-react-app).
+Click here to visit the: [Live site](https://github.com/facebook/create-react-app).
 
 ## Key notes:
     It's a website about some great programmers,
