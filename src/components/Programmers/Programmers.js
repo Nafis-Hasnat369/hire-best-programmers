@@ -21,14 +21,8 @@ const Programmers = () => {
     // handle event listeners area
 
     const handleAddToHire = programmer => {
-        console.log(programmer.id);
-        console.log(selected);
-        const event = selected.filter(item => item.id === programmer.id);
-        console.log(event);
-
         const newSelected = [...selected, programmer];
         setSelected(newSelected);
-
     }
 
     return (
