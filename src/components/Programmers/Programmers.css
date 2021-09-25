@@ -1,0 +1,24 @@
+/* display in the ui */
+
+.display-programmers{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-gap: 10px;
+    margin: 40px;
+}
+
+/* programmers area */
+
+.programmers-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+/* selected programmers area */
+
+.added-programmers-container{
+    border-left: 2px solid gray;
+    margin-top: 10px;
+    height: auto;
+}

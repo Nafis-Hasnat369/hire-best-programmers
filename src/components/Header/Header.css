@@ -1,0 +1,29 @@
+/* colors */
+.money{
+    color: cyan;
+}
+
+/* header styles */
+.header-container{
+    background-color: black;
+    line-height: 40px;
+}
+h1{
+    color: orange;
+    margin: 0;
+}
+h2{
+    color: lightcoral;
+}
+h3{
+    color: coral;
+}
+h4{
+    color:blue
+}
+small{
+    color: black;
+}
+p{
+    color:darkmagenta
+}

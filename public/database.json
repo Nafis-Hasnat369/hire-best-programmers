@@ -1,82 +1,102 @@
 [
     {
+        "id": 1,
+        "key": 10,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/220px-Dennis_Ritchie_2011.jpg",
         "name": "Dennis Ritchie",
         "nationality": "American",
         "born": 1994,
         "known": "ALTRAN",
-        "salary": "300k/y"
+        "salary": 300
     },
     {
+        "id": 2,
+        "key": 9,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bjarne-stroustrup_%28cropped%29.jpg/220px-Bjarne-stroustrup_%28cropped%29.jpg",
         "name": "Bjarne Stroustrup",
         "nationality": "Danish",
         "born": 1950,
         "known": "C++",
-        "salary": "450k/y"
+        "salary": 450
     },
     {
+        "id": 3,
+        "key": 8,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/James_Gosling_2008.jpg/220px-James_Gosling_2008.jpg",
-        "name": "James Arthur Gosling",
+        "name": "James Arthur",
         "nationality": "Canadian",
         "born": 1955,
         "known": "Java",
-        "salary": "350k/y"
+        "salary": 350
     },
     {
+        "id": 4,
+        "key": 7,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/220px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg",
-        "name": "Linus Benedict Torvalds",
+        "name": "Linus Benedict",
         "nationality": "American",
         "born": 1969,
         "known": "Linus, Git, Subsurface",
-        "salary": "500k/y"
+        "salary": 500
     },
     {
+        "id": 5,
+        "key": 6,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Anders_Hejlsberg.jpg/220px-Anders_Hejlsberg.jpg",
         "name": "Anders Hejlsberg",
         "nationality": "Danish",
         "born": 1960,
         "known": "Turbo Pascal,Delphi, C#",
-        "salary": "500k/y"
+        "salary": 500
     },
     {
+        "id": 6,
+        "key": 5,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/220px-Sir_Tim_Berners-Lee_%28cropped%29.jpg",
         "name": "Tim Berners-Lee",
         "nationality": "British",
         "born": 1955,
         "known": "WWW",
-        "salary": "550k/y"
+        "salary": 550
     },
     {
+        "id": 7,
+        "key": 4,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brian_Kernighan_in_2012_at_Bell_Labs_1.jpg/220px-Brian_Kernighan_in_2012_at_Bell_Labs_1.jpg",
         "name": "Brian Kernighan",
         "nationality": "Canadian",
         "born": 1942,
         "known": "Unix,AWK",
-        "salary": "380k/y"
+        "salary": 380
     },
     {
+        "id": 8,
+        "key": 3,
         "image": "https://www.computerhope.com/people/pictures/ken_thompson.jpg",
         "name": "Ken Thompson",
         "nationality": "American",
         "born": 1943,
         "known": "Unix,Multics",
-        "salary": "280k/y"
+        "salary": 280
     },
     {
+        "id": 9,
+        "key": 2,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Guido-portrait-2014-drc.jpg/220px-Guido-portrait-2014-drc.jpg",
-        "name": "Guido van Rossum",
+        "name": "Guido van",
         "nationality": "Dutch",
         "born": 1956,
         "known": "Creating the Python programming language",
-        "salary": "420k/y"
+        "salary": 420
     },
     {
+        "id": 10,
+        "key": 1,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KnuthAtOpenContentAlliance.jpg/192px-KnuthAtOpenContentAlliance.jpg",
         "name": "Donald Knuth",
         "nationality": "American",
         "born": 1938,
         "known": "The Art of Computer Programming",
-        "salary": "150k/y"
+        "salary": 150
     }
 ]
