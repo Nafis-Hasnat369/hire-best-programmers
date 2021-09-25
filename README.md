@@ -1,6 +1,7 @@
 # Hey, let's hire some awesome programmers
+# Site name: hire-best-programmers....
 
-Click here to visit the: [Live site](https://github.com/facebook/create-react-app).
+Click here to visit the: [Live site](https://hire-best-programmers.netlify.app/).
 
 ## Key notes:
     It's a website about some great programmers,
