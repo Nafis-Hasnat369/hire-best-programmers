@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Live site](https://github.com/facebook/create-react-app).
 
-Key notes:
+## Key notes:
     It's a website about some great programmers,
     You can see their salary per year,
     And ofcourse you can hire them if you can afford them!!
