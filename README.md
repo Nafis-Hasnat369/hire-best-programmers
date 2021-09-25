@@ -1,6 +1,12 @@
 # Hey, let's hire some awesome programmers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live site](https://github.com/facebook/create-react-app).
+
+Key notes:
+    It's a website about some great programmers,
+    You can see their salary per year,
+    And ofcourse you can hire them if you can afford them!!
+    {Actually if they are not dead yet!!!}
 
 ## Available Scripts
 
